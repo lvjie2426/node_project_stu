@@ -1,0 +1,38 @@
+{
+	"database": {
+		"students": [
+			{
+				"id": 1,
+				"name": "张三",
+				"age": "25",
+				"favorite": "football",
+				"job": "writer",
+				"ctime": 0
+			},
+			{
+				"id": 2,
+				"name": "李四",
+				"age": "24",
+				"favorite": "sing",
+				"job": "code",
+				"ctime": 1
+			},
+			{
+				"id": 3,
+				"name": "王五",
+				"age": "22",
+				"favorite": "readbook",
+				"job": "null",
+				"ctime": 2
+			},
+			{
+				"id": 4,
+				"name": "赵六",
+				"age": "20",
+				"favorite": "baskertball",
+				"job": "player",
+				"ctime": 3
+			}
+		]
+	}
+}
