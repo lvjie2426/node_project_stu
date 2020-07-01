@@ -19,11 +19,11 @@
 			},
 			{
 				"id": 3,
-				"name": "王五",
-				"age": "22",
-				"favorite": "readbook",
-				"job": "null",
-				"ctime": 2
+				"name": "赵六",
+				"age": "20",
+				"favorite": "baskertball",
+				"job": "player",
+				"ctime": 3
 			},
 			{
 				"id": 4,
