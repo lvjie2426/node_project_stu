@@ -4,34 +4,38 @@
 			{
 				"id": 1,
 				"name": "张三",
-				"age": "25",
-				"favorite": "football",
+				"age": 25,
+				"sex": 1,
+				"favorite": "football11",
 				"job": "writer",
-				"ctime": 0
+				"ctime": "2020年7月05日 1:54:52"
 			},
 			{
 				"id": 2,
 				"name": "李四",
-				"age": "24",
+				"age": 24,
+				"sex": 1,
 				"favorite": "sing",
 				"job": "code",
-				"ctime": 1
+				"ctime": "2020年7月05日 1:54:55"
 			},
 			{
 				"id": 3,
-				"name": "赵六",
-				"age": "20",
-				"favorite": "baskertball",
+				"name": "赵1",
+				"age": 20,
+				"sex": 1,
+				"favorite": "baskertball23",
 				"job": "player",
-				"ctime": 3
+				"ctime": "2020年7月05日 1:55:45"
 			},
 			{
 				"id": 4,
-				"name": "赵六",
-				"age": "20",
-				"favorite": "baskertball",
-				"job": "player",
-				"ctime": 3
+				"name": "1",
+				"age": 3213,
+				"sex": 1,
+				"favorite": "312",
+				"job": "213",
+				"ctime": "2020年7月05日 1:56:39"
 			}
 		]
 	}
