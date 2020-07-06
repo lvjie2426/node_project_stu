@@ -3,11 +3,12 @@ const express = require('express'),
     path = require('path'),
     fs = require('fs'),
     app = express(),
-    stu_router = require('./routers/stu_router');
+    // stu_router = require('./routers/stu_routerTojson');
+    stu_router = require('./routers/stu_routerToMongo');
 
 // 开放静态资源 配置中间件，模板引擎，body-parser
 app.use(express.static('static'));
-app.use('/static', express.static('static'));
+// app.use('/static', express.static('static'));
 app.use(express.static('node_modules'));
 
 app.use(bodyParser.urlencoded({ extended: false }))

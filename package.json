@@ -23,5 +23,8 @@
     "url": "https://github.com/lvjie2426/node_project/issues"
   },
   "homepage": "https://github.com/lvjie2426/node_project#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "mongoose": "^5.9.21"
+  }
 }
